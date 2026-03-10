@@ -1,0 +1,39 @@
+{
+  "items": [
+    { "code": "QXPEM2-13AB-200M", "name": "ME架橋ポリエチレン2層管 ブルー", "spec": "13A",      "unit": "m",  "unitPrice": 480 },
+    { "code": "QXPEM2-20B-60Q",   "name": "ME架橋ポリエチレン2層管 ブルー", "spec": "20A",      "unit": "m",  "unitPrice": 720 },
+    { "code": "QXPEM2-13AP-200M", "name": "ME架橋ポリエチレン2層管 ピンク", "spec": "13A",      "unit": "m",  "unitPrice": 480 },
+    { "code": "QXPEM2-16P-120Q",  "name": "ME架橋ポリエチレン2層管 ピンク", "spec": "16A",      "unit": "m",  "unitPrice": 560 },
+    { "code": "QXPE-13-100Q",     "name": "架橋ポリエチレン管",              "spec": "13A",      "unit": "m",  "unitPrice": 420 },
+    { "code": "T201313",          "name": "チーズ（異径）",                   "spec": "20×13×13", "unit": "個", "unitPrice": 320 },
+    { "code": "T2013",            "name": "チーズ（異径）",                   "spec": "20×13",    "unit": "個", "unitPrice": 280 },
+    { "code": "40VP",             "name": "硬質塩化ビニル管 VP",              "spec": "40φ",      "unit": "m",  "unitPrice": 280 },
+    { "code": "50VP",             "name": "硬質塩化ビニル管 VP",              "spec": "50φ",      "unit": "m",  "unitPrice": 380 },
+    { "code": "75VP",             "name": "硬質塩化ビニル管 VP",              "spec": "75φ",      "unit": "m",  "unitPrice": 560 },
+    { "code": "19000",            "name": "排水継手 エルボ L",                "spec": "50φ",      "unit": "個", "unitPrice": 210 },
+    { "code": "19001",            "name": "排水継手 エルボ L",                "spec": "65φ",      "unit": "個", "unitPrice": 260 },
+    { "code": "19002",            "name": "排水継手 エルボ LL",               "spec": "50φ",      "unit": "個", "unitPrice": 230 },
+    { "code": "19003",            "name": "排水継手 エルボ LL",               "spec": "65φ",      "unit": "個", "unitPrice": 280 },
+    { "code": "19502",            "name": "排水継手 チーズ TY",               "spec": "65×40φ",  "unit": "個", "unitPrice": 420 },
+    { "code": "19503",            "name": "排水継手 チーズ TY",               "spec": "65×50φ",  "unit": "個", "unitPrice": 450 },
+    { "code": "19520",            "name": "排水継手 ソケット S",              "spec": "50φ",      "unit": "個", "unitPrice": 160 },
+    { "code": "19521",            "name": "排水継手 ソケット S",              "spec": "65φ",      "unit": "個", "unitPrice": 190 },
+    { "code": "19532",            "name": "排水継手 掃除口",                  "spec": "65φ",      "unit": "個", "unitPrice": 850 },
+
+    { "code": "T161313A",         "name": "チーズ（異径）",                   "spec": "16×13×13", "unit": "個", "unitPrice": 300 },
+    { "code": "T161313B",         "name": "チーズ（異径） ロングタイプ",      "spec": "16×13×13", "unit": "個", "unitPrice": 340 },
+    { "code": "T161313C",         "name": "チーズ（異径） 耐熱タイプ",        "spec": "16×13×13", "unit": "個", "unitPrice": 380 },
+
+    { "code": "T161613A",         "name": "チーズ（異径）",                   "spec": "16×16×13", "unit": "個", "unitPrice": 310 },
+    { "code": "T161613B",         "name": "チーズ（異径） ロングタイプ",      "spec": "16×16×13", "unit": "個", "unitPrice": 350 },
+    { "code": "T161613C",         "name": "チーズ（異径） 耐熱タイプ",        "spec": "16×16×13", "unit": "個", "unitPrice": 390 },
+
+    { "code": "65VP-STD",         "name": "硬質塩化ビニル管 VP 標準",         "spec": "65φ",      "unit": "m",  "unitPrice": 340 },
+    { "code": "65VP-HW",          "name": "硬質塩化ビニル管 VP 肉厚",         "spec": "65φ",      "unit": "m",  "unitPrice": 410 },
+    { "code": "65VU",             "name": "硬質塩化ビニル管 VU",              "spec": "65φ",      "unit": "m",  "unitPrice": 310 },
+
+    { "code": "19504A",           "name": "排水継手 チーズ TY",               "spec": "75×50φ",  "unit": "個", "unitPrice": 480 },
+    { "code": "19504B",           "name": "排水継手 チーズ TY 大口径",        "spec": "75×50φ",  "unit": "個", "unitPrice": 520 },
+    { "code": "19505",            "name": "排水継手 チーズ TY",               "spec": "75×65φ",  "unit": "個", "unitPrice": 510 }
+  ]
+}
