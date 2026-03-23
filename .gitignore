@@ -1,1 +1,6 @@
 *.mp4
+
+# Claude Code local state (skills/は共有対象のため除外しない)
+.claude/*
+!.claude/skills/
+!.claude/settings.json

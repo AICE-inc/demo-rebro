@@ -1,0 +1,20 @@
+name: Claude Auto Review
+on:
+  pull_request:
+    types: [opened, reopened, ready_for_review]
+
+permissions:
+  contents: read
+  pull-requests: write
+  actions: read
+  id-token: write
+
+jobs:
+  review:
+    uses: AICE-inc/claude-code-review-workflow/.github/workflows/claude-auto-review.yml@main
+    with:
+      repo_name: ${{ github.repository }}
+      pr_number: ${{ github.event.pull_request.number }}
+      pr_head_ref: ${{ github.event.pull_request.head.ref }}
+    secrets:
+      anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY_CODE_REVIEW }}
